@@ -1,6 +1,10 @@
 package com.app.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
+<<<<<<< HEAD
+
+=======
+>>>>>>> branch 'master' of https://github.com/Dhanamjaya786/SpringWebMvc_Validations.git
 import org.springframework.stereotype.Controller;
 import org.springframework.validation.Errors;
 import org.springframework.web.bind.annotation.ModelAttribute;
