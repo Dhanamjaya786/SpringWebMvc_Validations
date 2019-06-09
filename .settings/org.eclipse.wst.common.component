@@ -5,6 +5,10 @@
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
         <property name="java-output-path" value="/SpringWebMvcForms/target/classes"/>
+<<<<<<< HEAD
         <property name="context-root" value="SpringWebMvcForms"/>
+=======
+        <property name="context-root" value="SpringWebMvc_Validations"/>
+>>>>>>> branch 'master' of https://github.com/Dhanamjaya786/SpringWebMvc_Validations.git
     </wb-module>
 </project-modules>
